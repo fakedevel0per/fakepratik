@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fakepratik
+- 👋 Hi, I’m @fakedeveloper
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Ideas and projects
